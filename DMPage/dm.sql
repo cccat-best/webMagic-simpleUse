@@ -1,0 +1,15 @@
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('一人之下', '米橙子 x 米二', '6558 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('大象无形', '番奇动漫', '3265 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('传武', 'gk工坊 x B', '2359 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('武炼巅峰', '噼咔噼 x PI', '2266 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('日月同错', '翻翻动漫 x 第', '1939 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('不健全关系', '灯萨 x 栖砚', '1731 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('一骗丹心', '阿豁', '1568 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('我真没想重生啊', '噼咔噼 x 噼咔', '1256 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('大王饶命', '阅动文化 x 小', '1205 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('请与我同眠', '鱼刺', '1075 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('地球尽头', '七度魚', '1037 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('开局一座山', 'VV', '1008 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('灵契', '瓶子', '906 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('万人之上', '博易动漫 x 博', '863 ');
+INSERT INTO `dm`(`name`, `author`, `ticket`) VALUES ('我是大神仙', '盛世卡漫 x M', '832 ');
