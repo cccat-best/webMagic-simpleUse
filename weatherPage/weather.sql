@@ -1,0 +1,12 @@
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('三亚', '多云', '32/24℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('九寨沟', '小雨', '14/8℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('大理', '多云转晴', '25/10℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('张家界', '小雨', '12/9℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('桂林', '小雨', '14/10℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('青岛', '阴转多云', '18/10℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('三亚', '多云', '26/31℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('九寨沟', '多云转晴', '8/23℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('大理', '晴转多云', '9/26℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('张家界', '小雨转晴', '10/22℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('桂林', '小雨', '11/19℃', '适宜');
+INSERT INTO `weather`(`area`, `element`, `temperature`, `Tourismindex`) VALUES ('青岛', '多云', '11/16℃', '适宜');
